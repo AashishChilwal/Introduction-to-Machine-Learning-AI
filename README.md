@@ -8,4 +8,4 @@ My name is Aashish Chilwal, and I am currently pursuing a bachelor's degree in A
 
 <br><br>
 
-## Thank you very for checking out my repository.
+## Thank you very much for checking out my repository.
